@@ -1,6 +1,6 @@
 # Overview
 
-This project is a simple **C++ “Hello World” program** designed to verify that my development environment is correctly configured and that I can successfully build, run, and publish software projects using GitHub.  
+project is a simple **C++ “Hello World” program** designed to verify that my development environment is correctly configured and that I can successfully build, run, and publish software projects using GitHub.  
 As a software engineering learner, this exercise helps me practice setting up tools, managing repositories, and following the development and submission process that I will use throughout future projects.  
 
 The goal of this program is straightforward — to display the text **“Hello World”** on the screen, confirming that the code runs successfully. Although basic, this is a fundamental step in building confidence with the programming workflow and development tools.
