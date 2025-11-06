@@ -5,7 +5,7 @@ As a software engineering learner, this exercise helps me practice setting up to
 
 The goal of this program is straightforward — to display the text **“Hello World”** on the screen, confirming that the code runs successfully. Although basic, this is a fundamental step in building confidence with the programming workflow and development tools.
 
-[Software Demo Video](https://www.youtube.com/your-demo-link-here)
+[Software Demo Video](https://youtu.be/3lXEm77XrmU)
 
 # Development Environment
 
@@ -20,7 +20,7 @@ I created a simple C++ source file named `main.cpp`, compiled it using the termi
 # Useful Websites
 
 * [C++ Tutorial – W3Schools](https://www.w3schools.com/cpp/)  
-* [GitHub Guides – Hello World](https://guides.github.com/activities/hello-world/)  
+* [GitHub Guides – Hello World](https://github.com/olubisiayantoye/Hello-World-Module/)  
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/)  
 * [Visual Studio Code Setup for C++](https://code.visualstudio.com/docs/languages/cpp)  
 * [YouTube Upload Help](https://support.google.com/youtube/answer/57407)  
