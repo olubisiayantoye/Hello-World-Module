@@ -35,3 +35,6 @@ int main() {
     cout << "Hello World! Welcome to my first C++ program." << endl;
     return 0;
 }
+
+--  g++ helloworld.cpp -o helloworld.exe
+--  ./helloworld.exe    
